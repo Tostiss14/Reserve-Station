@@ -1,1 +1,1 @@
-item-switch-failed-no-power = Недостаточно сил!
+item-switch-failed-no-power = Недостаточно энергии!
